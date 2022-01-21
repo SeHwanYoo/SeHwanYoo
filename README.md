@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there 👋
+
+### Sehwan Yoo 
+### Education: MSc, Computer Vision, Robotics and Machine Learning, Guildford, UK 
+### Job: Research, Development Division Vehicle Engineering Team Researcher, Gyeongbuk Institute of IT Convergence Industry Technology 
 
 <!--
 **SeHwanYoo/SeHwanYoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
