@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Development Division Vehicle Engineering Team Researcher, Gyeongbuk Institute of IT Convergence Industry Technology 
-- 🌱 I’m currently learning MSc, Computer Vision, Robotics and Machine Learning, University of Surrey, Guildford, UK 
+- 🔭 Occupation : Working on Development Division Vehicle Engineering Team Researcher, Gyeongbuk Institute of IT Convergence Industry Technology 
+- 🌱 Education : MSc, Computer Vision, Robotics and Machine Learning, University of Surrey, Guildford, UK 
 
 <!--
 **SeHwanYoo/SeHwanYoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
