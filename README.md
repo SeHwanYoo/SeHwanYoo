@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 Occupation : Working on Development Division Vehicle Engineering Team Researcher, Gyeongbuk Institute of IT Convergence Industry Technology 
+- 🔭 Occupation : Working on Development Division Vehicle Engineering Team Researcher, GITC
 - 🌱 Education : MSc, Computer Vision, Robotics and Machine Learning, University of Surrey, Guildford, UK 
 
 <!--
