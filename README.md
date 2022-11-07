@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-- 🔭 Occupation : Working on Development Division Vehicle Engineering Team Researcher, GITC
-- 🌱 Education : MSc, Computer Vision, Robotics and Machine Learning, University of Surrey, Guildford, UK 
+- 🔭 Occupation : Researcher, Seoul National University Hospital
+- 🌱 Education :  MSc, Computer Vision, Robotics and Machine Learning, University of Surrey, Guildford, UK 
+-                 BS, Information Science, Gyeongsang National University, South Korea
 
 <!--
 **SeHwanYoo/SeHwanYoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
