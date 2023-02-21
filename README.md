@@ -1,7 +1,9 @@
 ## Hi there 👋
 
-- 🔭 Occupation : Researcher, Seoul National University Hospital
-- 🌱 Education :  MSc, Computer Vision, Robotics and Machine Learning, University of Surrey, Guildford, UK 
+- 🔭 Occupation : None
+- 🌱 Education : 2027. Ph.D LKCMedicine, Nanyang Technological University, Singapore 
+                 2021. MSc, Computer Vision, Robotics and Machine Learning, University of Surrey, Guildford, UK 
+                 2013. BS, Information Science, Gyeongsang National University, South Korea
 
 <!--
 **SeHwanYoo/SeHwanYoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
