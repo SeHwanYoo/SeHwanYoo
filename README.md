@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🌱 Education :  
-  * Ph.D student, LKCMedicine (Bioinformatics), Nanyang Techlogical University, SG
+  * Ph.D student(present), LKCMedicine (Bioinformatics), Nanyang Techlogical University, SG
   * MSc, Computer Vision, Robotics and Machine Learning, University of Surrey, UK
   * BS, Informatics Science, Gyeongsang National University, KR
     
