@@ -1,9 +1,10 @@
 ## Hi there 👋
 
-- 🔭 Occupation : None
-- 🌱 Education :
-  Ph.D student, LKCMedicine (Bioinformatics), Nanyang Techlogical University  
--       
+- 🌱 Education :  
+  * Ph.D student, LKCMedicine (Bioinformatics), Nanyang Techlogical University, SG
+  * MSc, Computer Vision, Robotics and Machine Learning, University of Surrey, UK
+  * BS, Informatics Science, Gyeongsang National University, KR
+    
 
 <!--
 **SeHwanYoo/SeHwanYoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
