@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 - 🔭 Occupation : None
-- 🌱 Education : Ph.D student, LKCMedicine (Bioinformatics), Nanyang Techlogical University
+- 🌱 Education :
+  Ph.D student, LKCMedicine (Bioinformatics), Nanyang Techlogical University  
+-       
 
 <!--
 **SeHwanYoo/SeHwanYoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
