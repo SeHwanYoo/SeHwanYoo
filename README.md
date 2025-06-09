@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🌱 Education :  
-  * Notrhing learnt from a book
+  * Nothing learnt from a book
     
 <!--
 **SeHwanYoo/SeHwanYoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
